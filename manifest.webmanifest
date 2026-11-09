@@ -1,0 +1,18 @@
+{
+  "name": "生日网页相册",
+  "short_name": "生日网页相册",
+  "description": "三段旅程、九张照片，翻开我们共同的回忆与生日祝福。",
+  "lang": "zh-CN",
+  "start_url": "/liushengce-preview/",
+  "display": "standalone",
+  "background_color": "#f7edd7",
+  "theme_color": "#f7edd7",
+  "icons": [
+    {
+      "src": "/liushengce-preview/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "scope": "/liushengce-preview/"
+}
